@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "day by day",
+  "base_artist": "鹿乃",
+  "createdAt": "2026-02-16T17:18:08.190706Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Day By Day (좋은일만 생각하기)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/01_Day_By_Day_(좋은일만_생각하기)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "사랑은 선율을 타고 (Day By Day) [Live]",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/02_사랑은_선율을_타고_(Day_By_Day)_[Live]_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "사랑은 선율을 타고(Day By Day)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/03_사랑은_선율을_타고(Day_By_Day)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "좋은 일만 생각하기 (Day by Day)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/04_좋은_일만_생각하기_(Day_by_Day)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Day by Day (feat. Kadhja Bonet)",
+      "artist": "Bonobo feat. Kadhja Bonet",
+      "has_synced": true,
+      "path": "select/05_Day_by_Day_(feat._Kadhja_Bonet)_Bonobo_feat._Kadhja_Bonet.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Day by Day (feat. Kadhja Bonet)",
+      "artist": "Bonobo",
+      "has_synced": true,
+      "path": "select/06_Day_by_Day_(feat._Kadhja_Bonet)_Bonobo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Day By Day",
+      "artist": "Den Harrow",
+      "has_synced": false,
+      "path": "select/07_Day_By_Day_Den_Harrow.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Day by Day (remix)",
+      "artist": "Den Harrow",
+      "has_synced": false,
+      "path": "select/08_Day_by_Day_(remix)_Den_Harrow.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Day By Day",
+      "artist": "Astrud Gilberto",
+      "has_synced": true,
+      "path": "select/09_Day_By_Day_Astrud_Gilberto.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Day by Day",
+      "artist": "Badmarsh & Shri",
+      "has_synced": false,
+      "path": "select/10_Day_by_Day_Badmarsh_&_Shri.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Day by Day",
+      "artist": "Bonobo",
+      "has_synced": true,
+      "path": "select/11_Day_by_Day_Bonobo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Day by Day by Day by Day by Day",
+      "artist": "Roland Orzabal",
+      "has_synced": true,
+      "path": "select/12_Day_by_Day_by_Day_by_Day_by_Day_Roland_Orzabal.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Day by Day",
+      "artist": "Kidz In the Hall",
+      "has_synced": false,
+      "path": "select/13_Day_by_Day_Kidz_In_the_Hall.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Day By Day",
+      "artist": "Taken By Trees",
+      "has_synced": true,
+      "path": "select/14_Day_By_Day_Taken_By_Trees.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Day By Day",
+      "artist": "The 5th Dimension",
+      "has_synced": false,
+      "path": "select/15_Day_By_Day_The_5th_Dimension.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Day by Day",
+      "artist": "Swanky Tunes feat. LP",
+      "has_synced": true,
+      "path": "select/16_Day_by_Day_Swanky_Tunes_feat._LP.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Day By Day",
+      "artist": "Swanky Tunes/LP",
+      "has_synced": true,
+      "path": "select/17_Day_By_Day_Swanky_Tunes_LP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "day by day",
+      "artist": "鹿乃",
+      "has_synced": false,
+      "path": "select/pl_01_day_by_day_鹿乃.txt"
+    }
+  ]
+}
